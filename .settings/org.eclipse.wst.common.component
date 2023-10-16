@@ -17,7 +17,7 @@
                 		
         
         <property name="java-output-path" value="target/classes"/>
-        <property name="context-root" value="notice"/>
+        <property name="context-root" value="myapp"/>
                 	
     
     </wb-module>
